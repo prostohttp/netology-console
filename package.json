@@ -1,0 +1,16 @@
+{
+  "name": "002-console",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "bin": {
+    "cmd current": "./current.js"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
