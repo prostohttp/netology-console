@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "",
+  "type": "module",
   "bin": {
-    "cmd current": "./current.js"
+    "current": "./current.js",
+    "game": "./game.js"
   },
   "scripts": {},
   "keywords": [],
